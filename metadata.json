@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A robust full-stack Student Management System to manage student records, courses, grading, and attendance track with visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
